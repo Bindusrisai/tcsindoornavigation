@@ -1,11 +1,5 @@
-﻿# Indoor-Navigation-ARCore
+﻿#INDOOR-NAVIGATION
  
- >This is an Android navigation app built in Unity3D using Google ARCore.
+This is a Indoor navigation app built using ARCORE
  
- ## Features:
- * use of ARCore features: Environmental Understanding, Motion Tracking, Light Estimation
- * real time localization
- * real time navigation to a target point
- * speech recognition
- * voice control/navigation
- * user-friendly interface
+ 
